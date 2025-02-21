@@ -1,0 +1,23 @@
+{
+  "name": "static-deploy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dahrmmy007/static-deploy.git"
+  },
+  "author": "dahrmmy007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dahrmmy007/static-deploy/issues"
+  },
+  "homepage": "https://github.com/Dahrmmy007/static-deploy#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
